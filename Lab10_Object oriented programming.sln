@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab10_Object oriented programming", "Lab10_Object oriented programming\Lab10_Object oriented programming.vcxproj", "{1236AC4A-E379-45AD-A077-D4B801F086B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Debug|x64.ActiveCfg = Debug|x64
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Debug|x64.Build.0 = Debug|x64
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Debug|x86.Build.0 = Debug|Win32
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Release|x64.ActiveCfg = Release|x64
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Release|x64.Build.0 = Release|x64
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Release|x86.ActiveCfg = Release|Win32
+		{1236AC4A-E379-45AD-A077-D4B801F086B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06078985-64C4-4808-B77E-C20B239F5011}
+	EndGlobalSection
+EndGlobal
